@@ -2,7 +2,7 @@
 
 **`Maker | IoT Enthusiast | Python Dev | Web Dev | Red Teamer`**
 
-I’m an indie developer and tinkerer, passionate about building practical projects with affordable hardware and open-source tools. From **Price-Checker POS** to **Raspberry Pi Car Robots** and **Cybersecurity Research**, I love turning ideas into working prototypes that solve real-world problems.  
+I’m an indie developer and tinkerer, passionate about building practical projects with affordable hardware and open-source tools. I love turning ideas into working prototypes that solve real-world problems.  
 
    <p align="left">
       <a href="https://github.com/cajx-it?tab=followers">
