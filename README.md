@@ -1,55 +1,99 @@
-# ⚡ Cajx 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=⚡%20Cajx&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Maker%20|%20Developer%20|%20Red%20Teamer&descAlignY=60&descSize=25" />
+</p>
 
-**`Maker | IoT Enthusiast | Python Dev | Web Dev | Red Teamer`**
+<p align="center">
+  <a href="https://github.com/cajx-it">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Indie+Developer+%26+Tinkerer;IoT+%26+Automation+Enthusiast;Red+Teaming+%26+Security+Research;Full+Stack+Development" alt="Typing SVG" />
+  </a>
+</p>
 
-I’m an indie developer and tinkerer, passionate about building practical projects with affordable hardware and open-source tools. I love turning ideas into working prototypes that solve real-world problems.  
-
-   <p align="left">
-      <a href="https://github.com/cajx-it?tab=followers">
-         <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/cajx-it?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/cajx-it?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/cajx-it?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
-
----
-
-### 🧰 Languages and Tools  
-
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
-<img align="left" alt="Raspberry Pi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"/>
-<img align="left" alt="Arduino/ESP32" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<br />
+<p align="center">
+  <img src="https://img.shields.io/github/followers/cajx-it?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/stars/cajx-it?color=55960c&style=for-the-badge&labelColor=488207&logo=reverbnation&label=Total%20Stars" />
+</p>
 
 ---
 
-### 🚀 Featured Projects  
+### 🛡️ Cybersecurity & Red Teaming
+<p align="left">
+<img src="https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" />
+<img src="https://img.shields.io/badge/Hashcat-7289DA?style=for-the-badge&logo=linux-foundation&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali-Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Red_Teaming-D32F2F?style=for-the-badge&logo=target&logoColor=white" />
+</p>
 
-- **Price-Checker POS** → A DIY point-of-sale style project that lets users check item prices quickly.  
-- **Raspberry Pi Car Robot** → A camera-based robot powered by Raspberry Pi, OpenCV, and motor control for object tracking and movement.  
-- **Cybersecurity Warning for PLDT** → A security research project documenting a vulnerability on PLDT networks and raising awareness about potential risks.  
+### 💻 Development Stack
+| **Backend & Logic** | **Frontend & Web** | **DevOps & Automation** |
+| :--- | :--- | :--- |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) | ![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=flat-square&logo=n8n&logoColor=white) |
+| ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) |
+| ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat-square&logo=git&logoColor=white) |
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+
+### 📟 Hardware & IoT
+<p align="left">
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+</p>
 
 ---
 
-### 📊 Stats  
+### 🚀 Featured Projects
 
-![Cj's GitHub stats](https://github-readme-stats.vercel.app/api?username=cajx-it&show_icons=true&theme=gruvbox)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cajx-it&layout=compact&theme=gruvbox)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛒 Price-Checker POS</h4>
+      <p>A DIY point-of-sale system that lets users check item prices quickly using barcode scanners and local databases.</p>
+      <code>Python</code> <code>SQLite</code> <code>GUI</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 Raspberry Pi Car Robot</h4>
+      <p>Camera-based robot powered by OpenCV for object tracking and movement automation.</p>
+      <code>Python</code> <code>OpenCV</code> <code>IoT</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛡️ ISP Security Research</h4>
+      <p>Documenting vulnerabilities within local network infrastructures (PLDT) to raise cybersecurity awareness.</p>
+      <code>Burp Suite</code> <code>Networking</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔗 n8n Automation Engine</h4>
+      <p>Custom workflows connecting hardware sensors to webhooks and databases.</p>
+      <code>n8n</code> <code>Docker</code> <code>API</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🔍 About Me  
+### 📈 GitHub Ecosystem
 
-- 🌱 Learning **AI/ML on edge devices** & Kotlin Android dev  
-- 🛠 Focused on **low-cost, accessible tech projects**  
-- 📡 Into **IoT, automation, and robotics**  
-- 🎯 Goal: Build tools that **bridge gaps in local tech access**  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cajx-it&show_icons=true&theme=radical&border_radius=10&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cajx-it&layout=compact&theme=radical&border_radius=10&hide_border=true" width="43%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cajx-it&theme=radical&hide_border=true" width="92%" />
+</div>
 
 ---
 
-[website]: https://github.com/cajx-it
+### 🐍 Contribution Activity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cajx-it/cajx-it/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="92%" />
+</p>
+
+---
+
+
+<p align="center">
+  <a href="https://github.com/cajx-it?tab=followers"><img src="https://img.shields.io/github/followers/cajx-it?label=Follow%20Me&style=for-the-badge&color=00b4d8" /></a>
+</p>
