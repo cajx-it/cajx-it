@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/Hashcat-7289DA?style=for-the-badge&logo=linux-foundation&logoColor=white" />
 <img src="https://img.shields.io/badge/Kali-Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Ghidra-600000?style=for-the-badge&logo=ghidra&logoColor=white" />
+<img src="https://img.shields.io/badge/IDA_Pro-005571?style=for-the-badge&logo=hex-rays&logoColor=white" />
 <img src="https://img.shields.io/badge/Reverse_Engineering-000000?style=for-the-badge&logo=binaryninja&logoColor=white" />
 <img src="https://img.shields.io/badge/Red_Teaming-D32F2F?style=for-the-badge&logo=target&logoColor=white" />
 </p>
