@@ -86,13 +86,6 @@
 
 ---
 
-### 🐍 Contribution Activity
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cajx-it/cajx-it/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="92%" />
-</p>
-
----
-
 
 <p align="center">
   <a href="https://github.com/cajx-it?tab=followers"><img src="https://img.shields.io/github/followers/cajx-it?label=Follow%20Me&style=for-the-badge&color=00b4d8" /></a>
