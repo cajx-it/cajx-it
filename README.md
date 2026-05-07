@@ -76,10 +76,7 @@
 
 ### 📈 GitHub Ecosystem
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cajx-it&show_icons=true&theme=radical&border_radius=10&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cajx-it&layout=compact&theme=radical&border_radius=10&hide_border=true" width="43%" />
-</div>
+
 
 <br/>
 
